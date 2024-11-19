@@ -15,8 +15,6 @@ Welcome to the **Division Plugin** project! This plugin demonstrates my expertis
 - **Unreal Engine Tools**: Proficient use of architecture within Unreal Engine Context and plugin packaging.
 - **Documentation**: Both technical and non-technical documents to improve project workflow efficency.
 
----
-
 ## 🚀 **Getting Started**
 
 1. Clone or download the repository or you can download the releases if you do not need git files or pdf files.
@@ -35,8 +33,6 @@ This project highlights my ability to:
 - Deliver reusable and well-structured tools for game developers.
 - Work effectively with Unreal Engine’s API and extend its capabilities.
 - Build intuitive workflows for designers and developers alike.
-
----
 
 ## 💬 **Feedback and Contact**
 
